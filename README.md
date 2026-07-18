@@ -92,8 +92,20 @@ These users should be prioritized for manual investigation.
 
 # 📸 Sample Outputs
 
-Example outputs are available in the **screenshots/** folder.
+### Pattern 1 – Velocity Fraud
+![Pattern 1](screenshots/pattern1.png)
 
+### Pattern 2 – Round Amount Clustering
+![Pattern 2](screenshots/pattern2.png)
+
+### Pattern 4 – Failed Then Succeeded
+![Pattern 4](screenshots/pattern4.png)
+
+### Pattern 5 – Odd Hour Concentration
+![Pattern 5](screenshots/pattern5.png)
+
+### Pattern 7 – Refund Abuse
+![Pattern 7](screenshots/pattern7.png)
 ---
 
 # 👨‍💻 Author
